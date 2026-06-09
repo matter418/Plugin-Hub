@@ -1,0 +1,8 @@
+{
+    "repository_owner": "matter418",
+    "repository_name": "QuickDeposit",
+    "asset_sha": "sha256:c6c2777bdf5924905f6cc040b719a7a789e9b339bad043dcba808e440417016c",
+    "display_name": "Quick Deposit",
+    "display_author": "matter",
+    "display_description": "Skip the right-click menu in bank and crafting interfaces — configure left-click to do a chosen amount."
+}

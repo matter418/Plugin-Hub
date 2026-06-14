@@ -1,0 +1,8 @@
+{
+    "repository_owner": "matter418",
+    "repository_name": "QuickDrop",
+    "asset_sha": "sha256:6f782e0c4c4f77fa13ce461994e9cb62cce48f1cceac25ef0d000992e9a02079",
+    "display_name": "Quick Drop",
+    "display_author": "matter",
+    "display_description": "Drop an inventory item with a single configurable click (left, right, or shift) instead of the right-click menu."
+}
